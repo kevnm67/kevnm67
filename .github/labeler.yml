@@ -1,0 +1,33 @@
+---
+CI/CD:
+  - .circleci/*
+  - .codeclimate.yml
+  - .github/*
+  - .ruby-version
+  - .swift-version
+  - Dangerfile
+  - fastlane/*
+  - Makefile
+tests:
+  - Tests/*
+dependencies:
+  - .gitmodules
+  - Brewfile
+  - Cartfile
+  - Cartfile.private
+  - Carthage/*
+  - Gemfile
+  - Gemfile.lock
+  - Podfile
+  - Podfile.lock
+  - Pods/*
+  - Romefile
+documentation:
+  - CHANGELOG.md
+  - doc/*
+  - Documentation/*
+  - jazzy.yml
+  - README.md
+enhancement:
+  - .sourcery.yml
+  - swiftgen.yml
