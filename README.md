@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![](./docs/images/penguin.jpeg)
+
+I'm a software developer from Atlanta, GA.
+
 <!--
 **kevnm67/kevnm67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
