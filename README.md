@@ -2,11 +2,7 @@
 
 I'm a software developer from Atlanta, GA.
 
-<div align="center">
-    <br>
-    <img src="https://github.com/kevnm67/kevnm67/blob/master/docs/images/penguin.jpeg" alt="" width="250">
-    <br><br>
-</div>
+![github stats](https://github-readme-stats.vercel.app/api?username=kevnm67&count_private=true&theme=nord&hide_border=true&show_icons=true)
 
 <!--
 **kevnm67/kevnm67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,4 +17,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevnm67&layout=compact&count_private=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+
 -->
