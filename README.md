@@ -2,7 +2,7 @@
 
 I'm an iOS developer from Atlanta, GA.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=kevnm67&count_private=true&theme=nord&hide_border=true&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=kevnm67&count_private=true&theme=blueberry&hide_border=true&show_icons=true)
 
 ## 💼 Skills
 
