@@ -1,0 +1,35 @@
+---
+name: Sync labels
+on:
+  # You can run this with every type of event, but it's better to run it only when you actually need it.
+  workflow_dispatch:
+
+permissions:
+  issues: write
+
+jobs:
+  labels:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: .github/labels.yml
+
+      - uses: EndBug/label-sync@v2
+        with:
+          config-file: |
+            https://github.com/kevnm67/.github/blob/0c6e73d215d29e2d0e68a60b4ba80b15b6b0c3cb/.github/labels.yml
+            # .github/labels.yml
+
+          # If you want to use a source repo, you can put is name here (only the owner/repo format is accepted)
+          # source-repo: owner/repo
+
+          # If you're using a private source repo or a URL that needs an 'Authorization' header, you'll need to add a custom token for the action to read it
+          request-token: ${{ secrets.PAT_TOKEN }}
+
+          # If you want to delete any additional label, set this to true
+          delete-other-labels: false
+
+          # You can change the token used to change the labels, this is the default one
+          token: ${{ secrets.GITHUB_TOKEN }}
