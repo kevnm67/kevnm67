@@ -19,7 +19,7 @@ jobs:
       - uses: EndBug/label-sync@v2
         with:
           config-file: |
-            https://github.com/kevnm67/.github/blob/0c6e73d215d29e2d0e68a60b4ba80b15b6b0c3cb/.github/labels.yml
+            https://raw.githubusercontent.com/kevnm67/.github/main/.github/labels.yml
             # .github/labels.yml
 
           # If you want to use a source repo, you can put is name here (only the owner/repo format is accepted)
