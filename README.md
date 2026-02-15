@@ -1,7 +1,7 @@
 # Hey, I'm Kevin 👋
 
-Senior DevOps Engineering Manager from Atlanta. iOS developer turned
-infrastructure nerd. I build tools that make teams faster.
+Senior DevOps Engineering Manager from Atlanta.
+I build tools that make teams ship faster.
 
 <div align="center">
   <img src="github-metrics.svg" alt="GitHub Metrics" />
