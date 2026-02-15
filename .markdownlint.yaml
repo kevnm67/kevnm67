@@ -1,0 +1,10 @@
+---
+MD012:
+    maximum: 1
+MD013:
+    line_length: 80
+    tables: false
+MD007:
+    indent: 4
+    start_indented: false
+    start_indent: 4
