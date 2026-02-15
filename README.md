@@ -1,22 +1,22 @@
 # Hey, I'm Kevin 👋
 
-Senior DevOps Engineering Manager from Atlanta. iOS developer turned
-infrastructure nerd. I build tools that make teams faster.
+Senior DevOps Engineering Manager from Atlanta. iOS developer
+turned infrastructure nerd. I build tools that make teams faster.
 
 <div align="center">
   <img src="github-metrics.svg" alt="GitHub Metrics" />
 </div>
 
-## What I'm Working On
+## What I Do
 
-- 🔧 **OpsInsights** — Native macOS/iOS DevSecOps dashboard
-    (CircleCI, GitHub, Sentry, Jira)
-- 📊 **ClaudeTeamUsageApp** — AI team usage monitoring for
-    Anthropic's Admin API
-- ⚡ **SparkyPowerUpLab** — Educational math game for kids
-    (Swift 6, SpriteKit)
-- 🌐 **UniFi Network Tools** — CLI + audit scripts for Ubiquiti
-    Dream Machine management
+- 📱 **iOS & macOS apps** — Swift 6, SwiftUI, XcodeGen,
+    CI/CD pipelines
+- 🔧 **DevOps tooling** — CircleCI orbs, Fastlane automation,
+    deployment pipelines
+- 🌐 **Network infrastructure** — UniFi management, VLAN
+    design, security hardening
+- 🤖 **Developer productivity** — AI-assisted workflows,
+    metrics dashboards, automation
 
 ## Stack
 
