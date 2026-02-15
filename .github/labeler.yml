@@ -9,7 +9,6 @@ ci-cd:
           - .ruby-version
           - .swift-version
           - Makefile
-          - .codeclimate.yml
           - .github/*
 tests:
   - changed-files:
@@ -18,13 +17,8 @@ tests:
 dependencies:
   - changed-files:
       - any-glob-to-any-file:
-          - Carthage/*
-          - Cartfile.private
-          - Cartfile
-          - Pods/*
-          - Podfile
-          - Podfile.lock
-          - Romefile
+          - Package.swift
+          - Package.resolved
           - .gitmodules
           - Brewfile
 documentation:
@@ -33,9 +27,7 @@ documentation:
           - README.md
           - doc/*
           - Documentation/*
-          - jazzy.yml
           - CHANGELOG.md
-          - README.md
 framework:
   - changed-files:
       - any-glob-to-any-file:
