@@ -1,0 +1,21 @@
+---
+name: Claude Code Review
+
+on:
+  pull_request:
+    types: [opened, synchronize, ready_for_review, reopened]
+
+permissions:
+  contents: read
+  pull-requests: write
+  issues: read
+  id-token: write
+  actions: read
+
+jobs:
+  review:
+    uses: kevnm67/engineering-toolkit/.github/workflows/reusable-claude-review.yml@main
+    with:
+      review-prompt: "This is a GitHub profile README repo. Focus on markdown quality, link validity, and badge correctness."
+    secrets:
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
