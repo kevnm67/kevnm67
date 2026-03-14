@@ -3,9 +3,7 @@
 Senior DevOps Engineering Manager from Atlanta.
 I build tools that make teams ship faster.
 
-<div align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics" />
-</div>
+![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kevnm67&count_private=true&theme=tokyonight&hide_border=true&show_icons=true)
 
 ## What I Do
 
