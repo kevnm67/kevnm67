@@ -1,93 +1,94 @@
-# Hi there 👋
+# Hey, I'm Kevin 👋
 
-I'm an iOS developer from Atlanta, GA.
+Senior DevOps Engineering Manager from Atlanta.
+I build tools that make teams ship faster.
 
-![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kevnm67&count_private=true&theme=tokyonight&hide_border=true&show_icons=true)
+<div align="center">
+  <img src="github-metrics.svg" alt="GitHub Metrics" />
+</div>
 
-## 💼 Skills
+## What I Do
 
-![Swift][swift-shield]
-![macOS][macOS-shield]
-![CircleCI][circleci-shield]
-![Jira][Jira-shield]
+- 📱 **iOS & macOS apps** — Swift 6, SwiftUI, XcodeGen,
+    CI/CD pipelines
+- 🔧 **DevOps tooling** — CircleCI orbs, Fastlane automation,
+    deployment pipelines
+- 🌐 **Network infrastructure** — UniFi management, VLAN
+    design, security hardening
+- 🤖 **Developer productivity** — AI-assisted workflows,
+    metrics dashboards, automation
 
-<details>
-<summary>More Skills</summary>
-<br>
+## Stack
 
-![Swift][swift-shield]
-![Python][Python-shield]
-![Ruby][Ruby-shield]
+**Languages & Frameworks**
 
-<br>
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=flat&logo=swift&logoColor=white)
+![Objective‑C](https://img.shields.io/badge/Objective--C-438EFF?style=flat&logo=apple&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 
-![Actions][actions-shield]
-![Bitrise][Bitrise-shield]
-![TravisCI][TravisCI-shield]
+**Apple Ecosystem**
 
-<br>
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=macos&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white)
+![TestFlight](https://img.shields.io/badge/TestFlight-0D96F6?style=flat&logo=apple&logoColor=white)
+![CocoaPods](https://img.shields.io/badge/CocoaPods-EE3322?style=flat&logo=cocoapods&logoColor=white)
+![SPM](https://img.shields.io/badge/Swift_PM-F05138?style=flat&logo=swift&logoColor=white)
+![XcodeGen](https://img.shields.io/badge/XcodeGen-147EFB?style=flat&logo=xcode&logoColor=white)
 
-![GitHub][GitHub-shield]
-![AWS][aws-shield]
-![Postman][Postman-shield]
-![CodeClimate][CodeClimate-shield]
-![CocoaPods][CocoaPods-shield]
+**CI/CD & DevOps**
 
-<br>
+![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=flat&logo=circleci&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Bitrise](https://img.shields.io/badge/Bitrise-683D87?style=flat&logo=bitrise&logoColor=white)
+![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=flat&logo=fastlane&logoColor=white)
+![Danger](https://img.shields.io/badge/Danger-FF3030?style=flat&logo=ruby&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
 
-![Jira][Jira-shield]
-![Confluence][Confluence-shield]
-![Pivotal][Pivotal-shield]
+**Cloud & Infrastructure**
 
-<br>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white)
+![CloudKit](https://img.shields.io/badge/CloudKit-0071E3?style=flat&logo=icloud&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-[![Unifi][unifi-shield]][unifi-url]
+**Monitoring & Quality**
 
-<br>
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
+![Code Climate](https://img.shields.io/badge/Code_Climate-000000?style=flat&logo=codeclimate&logoColor=white)
+![BrowserStack](https://img.shields.io/badge/BrowserStack-FF6C37?style=flat&logo=browserstack&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-![Sketch][Sketch-shield]
-![Photoshop][Photoshop-shield]
+**Networking & Security**
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+![Ubiquiti](https://img.shields.io/badge/UniFi-0559C9?style=flat&logo=ubiquiti&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-000000?style=flat&logo=tailscale&logoColor=white)
+![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat&logo=wireguard&logoColor=white)
+![Let's Encrypt](https://img.shields.io/badge/Let's_Encrypt-003A70?style=flat&logo=letsencrypt&logoColor=white)
 
-<!-- </details> -->
+**Project Management**
 
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* [Img Shields](https://shields.io)
-* [simple-icons](https://github.com/simple-icons/simple-icons)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<br>
-
-<!--https://github.com/Ileriayo/markdown-badges-->
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[unifi-shield]: https://img.shields.io/badge/Unifi-informational?style=flat&logo=Ubiquiti&logoColor=white&color=0559C9
-[unifi-url]: https://www.ui.com
-[macos-shield]: https://img.shields.io/badge/macOS-informational?style=flat&logo=macOS&logoColor=white&color=000000
-
-[aws-shield]: https://img.shields.io/badge/AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=232F3E
-[Jira-shield]: https://img.shields.io/badge/Jira-informational?style=flat&logo=jirasoftware&logoColor=white&color=0052CC
-[Confluence-shield]: https://img.shields.io/badge/Confluence-informational?style=flat&logo=Confluence&logoColor=white&color=172B4D
-[Pivotal-shield]: https://img.shields.io/badge/Pivotal-informational?style=flat&logo=Pivotal-Tracker&logoColor=white&color=517A9E
-
-[GitHub-shield]: https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=181717
-[Postman-shield]: https://img.shields.io/badge/Postman-informational?style=flat&logo=Postman&logoColor=white&color=FF6C37
-[CodeClimate-shield]: https://img.shields.io/badge/CodeClimate-informational?style=flat&logo=codeclimate&logoColor=white&color=000000
-[CocoaPods-shield]: https://img.shields.io/badge/CocoaPods-informational?style=flat&logo=CocoaPods&logoColor=white&color=EE3322
-
-[swift-shield]: https://img.shields.io/badge/Swift-informational?style=flat&logo=swift&logoColor=white&color=F05138
-[Python-shield]: https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=3776AB
-[Ruby-shield]: https://img.shields.io/badge/Ruby-informational?style=flat&logo=ruby&logoColor=white&color=CC342D
-
-[circleci-shield]: https://img.shields.io/badge/CircleCI-informational?style=flat&logo=circleci&logoColor=white&color=343434
-[actions-shield]: https://img.shields.io/badge/GithubActions-informational?style=flat&logo=github-actions&logoColor=white&color=2088FF
-[Bitrise-shield]: https://img.shields.io/badge/Bitrise-informational?style=flat&logo=bitrise&logoColor=white&color=683D87
-[TravisCI-shield]: https://img.shields.io/badge/TravisCI-informational?style=flat&logo=travisci&logoColor=white&color=3EAAAF
-
-[Photoshop-shield]: https://img.shields.io/badge/Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=31A8FF
-[Sketch-shield]: https://img.shields.io/badge/Sketch-informational?style=flat&logo=Sketch&logoColor=white&color=F7B500
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jirasoftware&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
+![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=flat&logo=linear&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
