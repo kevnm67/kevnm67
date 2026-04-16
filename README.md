@@ -3,6 +3,8 @@
 Senior DevOps Engineering Manager from Atlanta.
 I build tools that make teams ship faster.
 
+[![GitHub Streak](https://github-readme-streak-stats-five-pi.vercel.app?user=kevnm67&theme=one-dark-pro)](https://git.io/streak-stats)
+
 ![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kevnm67&count_private=true&theme=tokyonight&hide_border=true&show_icons=true)
 
 ## What I Do
