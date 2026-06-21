@@ -5,7 +5,7 @@ Senior Manager, DevOps & Engineering Leadership · Atlanta
 I lead DevOps and QA automation teams, architect cloud + platform
 infrastructure, and build AI-leveraged developer experience.
 
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kevnm67&count_private=true&theme=tokyonight&hide_border=true&show_icons=true)
+![GitHub stats](https://gh-readme-stats-iota-navy.vercel.app/api?username=kevnm67&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&show_icons=true)
 
 ## What I do
 
