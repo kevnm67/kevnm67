@@ -3,22 +3,18 @@
 Senior DevOps Engineering Manager from Atlanta.
 I build tools that make teams ship faster.
 
-![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kevnm67&count_private=true&theme=tokyonight&hide_border=true&show_icons=true)
+|  |  |
+| :--: | :--: |
+| ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kevnm67&count_private=true&theme=tokyonight&hide_border=true&show_icons=true) | ![Top languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kevnm67&theme=tokyonight&hide_border=true&layout=compact&langs_count=8) |
 
-## What I Do
+## What I do
 
-- 📱 **iOS & macOS apps** — Swift 6, SwiftUI, XcodeGen,
-    CI/CD pipelines
-- 🔧 **DevOps tooling** — CircleCI orbs, Fastlane automation,
-    deployment pipelines
-- 🌐 **Network infrastructure** — UniFi management, VLAN
-    design, security hardening
-- 🤖 **Developer productivity** — AI-assisted workflows,
-    metrics dashboards, automation
+- 📱 **iOS & macOS apps** — Swift 6, SwiftUI, XcodeGen, CI/CD
+- 🔧 **DevOps tooling** — CircleCI orbs, Fastlane, deployment pipelines
+- 🌐 **Network infrastructure** — UniFi, VLAN design, security hardening
+- 🤖 **Developer productivity** — AI-assisted workflows, automation
 
-## Stack
-
-**Languages & Frameworks**
+## Core stack
 
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=flat&logo=swift&logoColor=white)
@@ -26,6 +22,19 @@ I build tools that make teams ship faster.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=flat&logo=fastlane&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=flat&logo=circleci&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+
+<details>
+<summary>Full toolbox</summary>
+
+**Languages & Frameworks**
+
+![Objective‑C](https://img.shields.io/badge/Objective--C-438EFF?style=flat&logo=apple&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
@@ -44,19 +53,13 @@ I build tools that make teams ship faster.
 
 **CI/CD & DevOps**
 
-![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=flat&logo=circleci&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Bitrise](https://img.shields.io/badge/Bitrise-683D87?style=flat&logo=bitrise&logoColor=white)
-![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=flat&logo=fastlane&logoColor=white)
 ![Danger](https://img.shields.io/badge/Danger-FF3030?style=flat&logo=ruby&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
 
 **Cloud & Infrastructure**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white)
 ![CloudKit](https://img.shields.io/badge/CloudKit-0071E3?style=flat&logo=icloud&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
@@ -90,3 +93,16 @@ I build tools that make teams ship faster.
 ![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=flat&logo=linear&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
+
+</details>
+
+## Featured work
+
+- **[ios-orb][ios-orb]** — CircleCI orb for iOS DevOps.
+- **[danger-pivotal_tracker][danger]** — Danger plugin that links Pivotal
+    Tracker stories to PRs.
+- **[MobileCI][mobileci]** — CircleCI orb experiments for iOS.
+
+[ios-orb]: https://github.com/kevnm67/ios-orb
+[danger]: https://github.com/kevnm67/danger-pivotal_tracker
+[mobileci]: https://github.com/kevnm67/MobileCI
