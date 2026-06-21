@@ -6,6 +6,7 @@ I lead DevOps and QA automation teams, architect cloud + platform
 infrastructure, and build AI-leveraged developer experience.
 
 ![GitHub stats](https://gh-readme-stats-iota-navy.vercel.app/api?username=kevnm67&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&show_icons=true)
+![GitHub streak](https://github-readme-streak-stats-five-pi.vercel.app/?user=kevnm67&theme=tokyonight&hide_border=true)
 
 ## What I do
 
