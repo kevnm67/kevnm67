@@ -10,14 +10,16 @@ infrastructure, and build AI-leveraged developer experience.
 
 ## What I do
 
-- 👥 **Lead DevOps & QA automation** — scaling the teams, pipelines, and
-    release processes behind reliable shipping
+- 👥 **Lead DevOps & QA automation** — the teams, CI/CD pipelines, and
+    release process
 - 🏗️ **Infra & architecture** — platform and systems design across AWS
     and Azure
-- 🤖 **AI-leveraged developer experience** — Claude and Claude Code woven
-    into CI, review, and automation
-- 🧩 **Atlassian platform** — Jira / Atlassian admin and Forge app
+- 🤖 **AI-leveraged developer experience** — Claude and Claude Code in CI,
+    code review, and automation
+- 🧩 **Atlassian platform** — Jira/Atlassian admin and Forge app
     development
+- 📱 **iOS & macOS** — Swift, SwiftUI, and Fastlane; a constant throughout
+    my career, just not the current focus
 
 ## Stack
 
