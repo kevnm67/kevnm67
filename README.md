@@ -15,6 +15,8 @@
 - 🧩 **Atlassian platform** — Jira admin and Forge app development
 - 📱 **Apple platforms** — Swift, SwiftUI, Fastlane
 
+📄 [Resume](https://kevinmorton-dev.vercel.app/resume)
+
 - [Overview](#overview)
 - [Stack](#stack)
 - [Open source](#open-source)
