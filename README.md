@@ -15,8 +15,6 @@
 - 🧩 **Atlassian platform** — Jira admin and Forge app development
 - 📱 **Apple platforms** — Swift, SwiftUI, Fastlane
 
-📄 [Resume](https://kevnm67.github.io/resume/)
-
 - [Overview](#overview)
 - [Stack](#stack)
 - [Open source](#open-source)
