@@ -4,13 +4,20 @@
 <a href="https://github.com/kevnm67"><img src="https://gh-readme-stats-iota-navy.vercel.app/api?username=kevnm67&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&card_width=420" alt="GitHub stats" height="165" /></a>
 <a href="https://github.com/kevnm67"><img src="https://gh-readme-stats-iota-navy.vercel.app/api/top-langs/?username=kevnm67&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=html,objective-c,javascript,ruby" alt="Top languages" height="165" /></a>
 
-Senior Manager, DevOps & Engineering Leadership · Atlanta
+## Overview
 
-I lead DevOps and QA automation teams, architect cloud + platform
-infrastructure, and build AI-leveraged developer experience.
+**Senior Manager, DevOps & Engineering Leadership** · Atlanta, GA
 
-[Resume](https://kevnm67.github.io/resume/)
+- 👥 **Lead DevOps & QA automation teams** — CI/CD, infrastructure, and
+  developer experience
+- 🏗️ **Platform & cloud architecture** — AWS, Azure, Terraform
+- 🤖 **AI-native DevEx** — Claude Code in CI, code review, and automation
+- 🧩 **Atlassian platform** — Jira admin and Forge app development
+- 📱 **Apple platforms** — Swift, SwiftUI, Fastlane
 
+📄 [Resume](https://kevnm67.github.io/resume/)
+
+- [Overview](#overview)
 - [Stack](#stack)
 - [Open source](#open-source)
 
