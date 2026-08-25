@@ -1,65 +1,40 @@
-# Hey, I'm Kevin 👋
+<!-- markdownlint-disable MD033 MD041 MD013 -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:1a1b27,100:7aa2f7&text=Kevin%20Morton&fontColor=ffffff&fontSize=36&fontAlignY=55&desc=DevOps%20%C2%B7%20Platform%20%C2%B7%20iOS&descAlignY=80&descSize=16" alt="Kevin Morton — DevOps · Platform · iOS" width="100%" />
 
-Senior Manager, DevOps & Engineering Leadership · Atlanta
+<a href="https://github.com/kevnm67"><img src="https://gh-readme-stats-iota-navy.vercel.app/api?username=kevnm67&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&card_width=420" alt="GitHub stats" height="165" /></a>
+<a href="https://github.com/kevnm67"><img src="https://gh-readme-stats-iota-navy.vercel.app/api/top-langs/?username=kevnm67&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=html,objective-c,javascript,ruby" alt="Top languages" height="165" /></a>
 
-I lead DevOps and QA automation teams, architect cloud + platform
-infrastructure, and build AI-leveraged developer experience.
+## Overview
 
-![GitHub stats](https://gh-readme-stats-iota-navy.vercel.app/api?username=kevnm67&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&show_icons=true)
-![GitHub streak](https://github-readme-streak-stats-five-pi.vercel.app/?user=kevnm67&theme=tokyonight&hide_border=true)
+**Senior Manager, DevOps & Engineering Leadership** · Atlanta, GA
 
-## What I do
+- 👥 **Lead DevOps & QA automation teams** — CI/CD, infrastructure, and
+  developer experience
+- 🏗️ **Platform & cloud architecture** — AWS, Azure, Terraform
+- 🤖 **AI-native DevEx** — Claude Code in CI, code review, and automation
+- 🧩 **Atlassian platform** — Jira admin and Forge app development
+- 📱 **Apple platforms** — Swift, SwiftUI, Fastlane
 
-- 👥 **Lead DevOps & QA automation** — CI/CD, infra, automation, and
-    making developer experience a pleasure 😎
-- 🏗️ **Infra & architecture** — platform and systems design across AWS
-    and Azure
-- 🤖 **AI-leveraged developer experience** — Claude and Claude Code in CI,
-    code review, and automation
-- 🧩 **Atlassian platform** — Jira/Atlassian admin and Forge app
-    development
-- 📱 **iOS & macOS** — Swift, SwiftUI, and Fastlane
+📄 [Resume](https://kevinmorton-dev.vercel.app/resume)
+
+- [Overview](#overview)
+- [Stack](#stack)
+- [Open source](#open-source)
 
 ## Stack
 
-**Cloud & infrastructure**
+| Area | Tools |
+| ---- | ----- |
+| **Cloud & IaC** | AWS · Azure · Terraform |
+| **Languages** | Python · Swift/SwiftUI · TypeScript · Bash |
+| **CI/CD & DevEx** | CircleCI · GitHub Actions · Fastlane · Claude Code · D2 |
+| **Atlassian** | Jira · Confluence · Forge |
+| **Quality & observability** | Qlty · Sentry · Datadog · New Relic |
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+## Open source
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=flat&logo=swift&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-
-**CI/CD & DevX**
-
-![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=flat&logo=circleci&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)
-![D2](https://img.shields.io/badge/D2-5C6BC0?style=flat&logo=d2&logoColor=white)
-
-**Atlassian**
-
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
-![Forge](https://img.shields.io/badge/Atlassian_Forge-FF5630?style=flat&logo=atlassian&logoColor=white)
-
-**Observability**
-
-![Qlty](https://img.shields.io/badge/Qlty-7C3AED?style=flat&logo=qlty&logoColor=white)
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
-![New Relic](https://img.shields.io/badge/New_Relic-1CE783?style=flat&logo=newrelic&logoColor=black)
-
-<details>
-<summary>Also in the mix</summary>
-
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6D00CC?style=flat&logo=gnumake&logoColor=white)
-
-</details>
+| Project | What it is |
+| ------- | ---------- |
+| [ios-orb](https://github.com/kevnm67/ios-orb) | CircleCI orb for iOS build, test, and Fastlane release pipelines |
+| [ci-failure-notifier](https://github.com/kevnm67/ci-failure-notifier) | CircleCI orb for instant CI failure notifications via Telegram |
+| [MobileCI](https://github.com/kevnm67/MobileCI) | Reference iOS app wired end-to-end through CircleCI |
