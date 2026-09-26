@@ -13,8 +13,14 @@ permissions:
 jobs:
   metrics:
     runs-on: ubuntu-latest
+    env:
+      METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
     steps:
+      - name: Skip when METRICS_TOKEN is not configured
+        if: env.METRICS_TOKEN == ''
+        run: echo "::notice::METRICS_TOKEN secret is not set; skipping metrics generation."
       - uses: lowlighter/metrics@latest
+        if: env.METRICS_TOKEN != ''
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: kevnm67
