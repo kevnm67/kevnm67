@@ -1,0 +1,98 @@
+# Profile README diagram: how I ship.
+# Render: d2 --pad 32 assets/stack.d2 assets/stack.svg
+vars: {
+  d2-config: {
+    layout-engine: elk
+    theme-id: 200
+    dark-theme-id: 200
+  }
+}
+
+grid-rows: 2
+grid-columns: 3
+horizontal-gap: 150
+vertical-gap: 90
+
+style.fill: "#1a1b27"
+
+classes: {
+  stage: {
+    style: {
+      fill: "#24283b"
+      stroke: "#414868"
+      border-radius: 12
+      font-color: "#7aa2f7"
+      font-size: 22
+      bold: true
+    }
+  }
+  tool: {
+    shape: image
+    width: 56
+    height: 56
+    label.near: outside-bottom-center
+    style.font-color: "#c0caf5"
+    style.font-size: 16
+  }
+  flow: {
+    style: {
+      stroke: "#7aa2f7"
+      stroke-width: 2
+      font-color: "#a9b1d6"
+      font-size: 15
+    }
+  }
+}
+
+plan: Plan {
+  class: stage
+  grid-columns: 2
+  jira: Jira {class: tool; icon: icons/jira.svg}
+  confluence: Confluence {class: tool; icon: icons/confluence.svg}
+}
+
+code: Code {
+  class: stage
+  grid-columns: 2
+  github: GitHub {class: tool; icon: icons/github.svg}
+  claude: Claude Code {class: tool; icon: icons/claude.svg}
+}
+
+ci: CI/CD {
+  class: stage
+  grid-columns: 3
+  circleci: CircleCI {class: tool; icon: icons/circleci.svg}
+  gha: GitHub Actions {class: tool; icon: icons/githubactions.svg}
+  fastlane: fastlane {class: tool; icon: icons/fastlane.svg}
+}
+
+langs: Build with {
+  class: stage
+  grid-columns: 2
+  python: Python {class: tool; icon: icons/python.svg}
+  swift: Swift {class: tool; icon: icons/swift.svg}
+}
+
+observe: Observe {
+  class: stage
+  grid-columns: 2
+  datadog: Datadog {class: tool; icon: icons/datadog.svg}
+  sentry: Sentry {class: tool; icon: icons/sentry.svg}
+}
+
+infra: Cloud & IaC {
+  class: stage
+  grid-columns: 3
+  terraform: Terraform {class: tool; icon: icons/terraform.svg}
+  azure: Azure {class: tool; icon: icons/azure.svg}
+  aws: AWS {class: tool; icon: icons/aws.svg}
+}
+
+plan -> code: tickets {class: flow}
+code -> ci: pull requests {class: flow}
+ci -> infra: deploy {class: flow}
+infra -> observe: telemetry {class: flow}
+observe -> plan: DORA + incidents {
+  class: flow
+  style.stroke-dash: 4
+}

@@ -15,13 +15,17 @@
 - 🧩 **Atlassian platform** — Jira admin and Forge app development
 - 📱 **Apple platforms** — Swift, SwiftUI, Fastlane
 
-📄 [Resume](https://kevinmorton-dev.vercel.app/resume)
+<a href="https://kevinmorton-dev.vercel.app/resume"><img src="https://img.shields.io/badge/Resume-7aa2f7?style=for-the-badge&logo=readdotcv&logoColor=1a1b27" alt="Resume" /></a>
+<a href="https://kevinmorton-dev.vercel.app"><img src="https://img.shields.io/badge/Website-24283b?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" /></a>
+<a href="https://www.linkedin.com/in/kevin-m-9549018"><img src="https://img.shields.io/badge/LinkedIn-24283b?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 - [Overview](#overview)
 - [Stack](#stack)
 - [Open source](#open-source)
 
 ## Stack
+
+<img src="assets/stack.svg" alt="Plan (Jira, Confluence) to Code (GitHub, Claude Code) to CI/CD (CircleCI, GitHub Actions, fastlane) to Cloud and IaC (Terraform, Azure, AWS) to Observe (Datadog, Sentry), with DORA and incident data feeding back into planning" width="100%" />
 
 | Area | Tools |
 | ---- | ----- |
