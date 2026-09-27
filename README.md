@@ -25,7 +25,7 @@
 
 ## Stack
 
-<img src="assets/stack.svg" alt="Plan (Jira, Confluence) to Code (GitHub, Claude Code) to CI/CD (CircleCI, GitHub Actions, fastlane) to Cloud and IaC (Terraform, Azure, AWS) to Observe (Datadog, Sentry), with DORA and incident data feeding back into planning" width="100%" />
+<img src="assets/stack.svg" alt="Plan (Jira, Confluence) to Code (GitHub, Claude Code) to CI/CD (CircleCI, GitHub Actions, fastlane) to Cloud and IaC (Terraform, Azure, AWS) to Quality and observability (Datadog, Sentry, Qlty), with DORA and incident data feeding back into planning" width="100%" />
 
 | Area | Tools |
 | ---- | ----- |
