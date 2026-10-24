@@ -2,6 +2,9 @@ version: 2
 updates:
 - package-ecosystem: github-actions
   directory: "/"
+  ignore:
+  # Private repo Dependabot cannot read (git_dependencies_not_reachable); refs are @main.
+  - dependency-name: kevnm67/engineering-toolkit
   schedule:
     interval: daily
     time: '09:00'
